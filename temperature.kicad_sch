@@ -488,7 +488,7 @@
     (property "Value" "33k" (at 171.45 72.39 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 171.45 76.708 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric" (at 171.45 76.708 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 171.45 74.93 0)
@@ -502,7 +502,7 @@
           (reference "R1") (unit 1)
         )
         (path "/e7c076f1-58dd-4c1c-bf23-cd4f9bac021b/60762d9e-9f44-4b4d-bea5-e9485d5291f6"
-          (reference "R1") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -517,7 +517,7 @@
     (property "Value" "0.01u" (at 160.02 62.23 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" (at 163.83 65.0748 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 163.83 65.0748 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 66.04 0)
@@ -531,7 +531,7 @@
           (reference "C1") (unit 1)
         )
         (path "/e7c076f1-58dd-4c1c-bf23-cd4f9bac021b/60762d9e-9f44-4b4d-bea5-e9485d5291f6"
-          (reference "C1") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -588,7 +588,7 @@
           (reference "#GND03") (unit 1)
         )
         (path "/e7c076f1-58dd-4c1c-bf23-cd4f9bac021b/60762d9e-9f44-4b4d-bea5-e9485d5291f6"
-          (reference "#GND03") (unit 1)
+          (reference "#GND014") (unit 1)
         )
       )
     )
@@ -616,7 +616,7 @@
           (reference "#GND05") (unit 1)
         )
         (path "/e7c076f1-58dd-4c1c-bf23-cd4f9bac021b/60762d9e-9f44-4b4d-bea5-e9485d5291f6"
-          (reference "#GND01") (unit 1)
+          (reference "#GND012") (unit 1)
         )
       )
     )
@@ -653,7 +653,7 @@
           (reference "U2") (unit 1)
         )
         (path "/e7c076f1-58dd-4c1c-bf23-cd4f9bac021b/60762d9e-9f44-4b4d-bea5-e9485d5291f6"
-          (reference "U1") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -668,7 +668,7 @@
     (property "Value" "470n" (at 181.61 83.185 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" (at 178.7652 85.09 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 178.7652 85.09 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 177.8 81.28 0)
@@ -682,7 +682,7 @@
           (reference "C2") (unit 1)
         )
         (path "/e7c076f1-58dd-4c1c-bf23-cd4f9bac021b/60762d9e-9f44-4b4d-bea5-e9485d5291f6"
-          (reference "C2") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -710,7 +710,7 @@
           (reference "#GND06") (unit 1)
         )
         (path "/e7c076f1-58dd-4c1c-bf23-cd4f9bac021b/60762d9e-9f44-4b4d-bea5-e9485d5291f6"
-          (reference "#GND02") (unit 1)
+          (reference "#GND013") (unit 1)
         )
       )
     )
@@ -738,7 +738,7 @@
           (reference "#GND01") (unit 1)
         )
         (path "/e7c076f1-58dd-4c1c-bf23-cd4f9bac021b/60762d9e-9f44-4b4d-bea5-e9485d5291f6"
-          (reference "#GND04") (unit 1)
+          (reference "#GND015") (unit 1)
         )
       )
     )

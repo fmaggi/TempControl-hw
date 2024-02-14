@@ -3,4 +3,6 @@
   (lib (name "ad596")(type "KiCad")(uri "${KIPRJMOD}/syms/ad596/ad596.pretty")(options "")(descr ""))
   (lib (name "ad597")(type "KiCad")(uri "${KIPRJMOD}/syms/ad597/ad597.pretty")(options "")(descr ""))
   (lib (name "blue_pill")(type "KiCad")(uri "${KIPRJMOD}/syms/blue_pill/blue_pill.pretty")(options "")(descr ""))
+  (lib (name "reg5")(type "KiCad")(uri "${KIPRJMOD}/syms/reg5/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "reg33")(type "KiCad")(uri "${KIPRJMOD}/syms/reg33/footprints.pretty")(options "")(descr ""))
 )
