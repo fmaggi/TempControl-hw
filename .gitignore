@@ -2,4 +2,7 @@
 *-bak
 horno-backups/
 plts/
+~_*
+*autosave*
+*.lck
 
